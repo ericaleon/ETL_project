@@ -1,3 +1,3 @@
 # ETL_project
 
-Bee health, pesticide usage and honey production in the USA.
+A look at the health of honey bee colonies, honey production, and pesticide usage in the USA.
