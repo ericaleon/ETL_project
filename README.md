@@ -1,3 +1,3 @@
 # ETL_project
 
-Bee health, colony collapse disorder and honey production in the USA.
+Bee health, pesticide usage and honey production in the USA.
