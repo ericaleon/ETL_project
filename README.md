@@ -2,22 +2,23 @@
 
 A look at the health of honey bee colonies, honey production, and pesticide usage in the USA.
 
-Data Resources include the USDA (https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Bee_and_Honey/) and Kaggle (https://www.kaggle.com/kevinzmith/honey-with-neonic-pesticide).
+## Data Resources 
+* [USDA](https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Bee_and_Honey/) - Databases on honey bee colonies in the United States and honey production in the United States. 
+* [Kaggle](https://www.kaggle.com/usgs/pesticide-use/version/1) - Database of pesticide use in the United States .
 
-We will need to filter data from all sources for 2015.
+### Data sources filtered for 2015.
 
-Source year: 2015
+Given the limited time available and inconclusive datasets for many years, we will limit the scope of this project to 2015
 
 Merging data on state
 
-From Resources/Bee Colonies 2015
+* From Resources/bee_colonies_2015
 
-  combine and clean CSVs (hcny_p06_t002, t013, t009, t010) to include:
-  
-  
-    number of colonies (start)
-    % colony change (+/-)
-
+Combine and clean CSVs (hcny_p06_t002, t013, t009, t010) to include:
+```
+number of colonies (start)
+% colony change (+/-)
+```
 From Resournces/Honey 2015
 
  clean the CSV (t003)  to include:
