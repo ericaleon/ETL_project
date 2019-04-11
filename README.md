@@ -8,7 +8,7 @@ A look at the health of honey bee colonies, honey production, and pesticide usag
 
 ## Transforming Data
 
-Data sources filtered for 2015.
+### Data sources filtered for 2015
 
 Given the limited time available and inconclusive datasets for many years, we will limit the scope of this project to 2015
 
