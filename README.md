@@ -10,28 +10,28 @@ A look at the health of honey bee colonies, honey production, and pesticide usag
 
 Given the limited time available and inconclusive datasets for many years, we will limit the scope of this project to 2015
 
-Merging data on state
 
-* From Resources/bee_colonies_2015
+## From Resources/bee_colonies_2015
 
 Combine and clean CSVs (hcny_p06_t002, t013, t009, t010) to include:
 ```
-number of colonies (start)
-% colony change (+/-)
+number of colonies (start)- 2015
+% colony change (+/-) - 2015
 ```
-From Resournces/Honey 2015
 
- clean the CSV (t003)  to include:
-  
-  
-    total production
-    yield/colony(lbs)
-    
-From Resources/AgrPesticideUse_2014-2015
 
-  clean the CVS (2015) to include information for:
-  
-  
-  acetamiprid, clothianidin, imidacloprid, nitenpyram, 
-  nithiazine, thiacloprid and thiamethoxam
-    
+## From Resournces/honey_2015
+
+Clean the CSV (t003) to include:
+```
+total production - 2015
+yield/colony(lbs) - 2015
+```
+
+
+## From Resources/AgrPesticideUse_2014-2015
+
+Clean the CVS (2015) to include information for:
+```
+Use of acetamiprid, clothianidin, imidacloprid, nitenpyram, nithiazine, thiacloprid and thiamethoxam in 2015
+```    
