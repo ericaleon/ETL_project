@@ -33,5 +33,6 @@ From Resources/AgrPesticideUse_2014-2015
   clean the CVS (2015) to include information for:
   
   
-  acetamiprid, clothianidin, imidacloprid, nitenpyram, nithiazine, thiacloprid and thiamethoxam
+  acetamiprid, clothianidin, imidacloprid, nitenpyram, 
+  nithiazine, thiacloprid and thiamethoxam
     
