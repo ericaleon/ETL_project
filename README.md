@@ -4,7 +4,7 @@ A look at the health of honey bee colonies, honey production, and pesticide usag
 
 ## Extracting Data Resources 
 * [USDA](https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Bee_and_Honey/) - CSV on honey bee colonies in the United States and CSV on honey production in the United States. 
-* [Kaggle](https://www.kaggle.com/usgs/pesticide-use/version/1) - CSV of pesticide use in the United States .
+* [Kaggle](https://www.kaggle.com/usgs/pesticide-use/version/1) - CSV of pesticide use in the United States via the USGS.
 
 ## Transforming Data
 
