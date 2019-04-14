@@ -55,7 +55,7 @@ Use of acetamiprid, clothianidin, imidacloprid, nitenpyram, nithiazine, thiaclop
 -- Production rates for the 5 states that ended the 2015 year with the most colonies
 -- Pesticide rates for the 5 states that saw the highest colony loss
 -- Pesticide rates for the 5 states that saw the most colonies added
--- olony change for the states with the greatest pesticide use
+-- Colony change for the states with the greatest pesticide use
 ```
 
 ### Consideration in reading the data:
