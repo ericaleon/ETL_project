@@ -68,6 +68,8 @@ Alaska, Delaware, Nevada, New Hampshire, and Rhode Island were not individually 
 For the collected data on honey production:
 Alaska, Connecticut, Delaware, Maryland, Massachusetts, Nevada, New Hampshire, New Mexico, Oklahoma, and Rhode Island were not individually reported on.
 
+Also, in 2015, California, Alaska, and Hawaii did not report on their use of the 7 pestiides believed to cause adverse effects on colony health. 
+
 
 ## Authors
 * [**Emily Tavik**](https://github.com/emilyt1985/)
