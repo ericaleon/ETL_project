@@ -35,7 +35,7 @@ total production - 2015
 yield/colony(lbs) - 2015
 ```
 
-### These 2 dataframes were merged on state.
+### The Honey and Colony dataframes were merged on state.
 
 
 ### From Resources/AgrPesticideUse_2014-2015
