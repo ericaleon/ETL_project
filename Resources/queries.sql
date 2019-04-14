@@ -1,4 +1,4 @@
-USE honeybees
+USE honeybees;
 
 select * from bees_data;
 select * from pesticides;
