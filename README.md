@@ -27,11 +27,11 @@ Renovated colonies 2015
 ```
 
 
-### From Resournces/honey_2015
+### From Resources/honey_2015
 
 Clean the CSV (t003) to include:
 ```
-total production - 2015
+total production(lbs) - 2015
 yield/colony(lbs) - 2015
 ```
 
@@ -42,7 +42,17 @@ yield/colony(lbs) - 2015
 
 Clean the CVS (2015) to include information for:
 ```
-Use of acetamiprid, clothianidin, imidacloprid, nitenpyram, nithiazine, thiacloprid and thiamethoxam in 2015
+2015 use rates per harvested-crop acre, or an “estimated pesticide use” (EPest) rate, of the following compounds:
+-- acetamiprid
+-- clothianidin
+-- imidacloprid
+-- nitenpyram
+-- nithiazine
+-- thiacloprid
+-- thiamethoxam
+
+These compounds are in the neonicotinoid (neonid) class of pesticides, which have been linked to colony 
+collapse disorder.
 ```    
 
 
@@ -51,11 +61,11 @@ Use of acetamiprid, clothianidin, imidacloprid, nitenpyram, nithiazine, thiaclop
 * Load cleaned data into a SQL database
 * The SQL database was queried to show the following:
 ```
--- Top 5 states with the highest honey/colony yield
+-- Top 5 states with the highest honey yield per colony
 -- Production rates for the 5 states that ended the 2015 year with the most colonies
--- Pesticide rates for the 5 states that saw the highest colony loss
--- Pesticide rates for the 5 states that saw the most colonies added
--- Colony change for the states with the greatest pesticide use
+-- Pesticide usage for the 5 states that saw the highest colony loss
+-- Pesticide usage for the 5 states that saw the most colonies added
+-- Change in number of colonies for the states with the greatest pesticide use
 ```
 
 ### Consideration in reading the data:
@@ -68,7 +78,7 @@ Alaska, Delaware, Nevada, New Hampshire, and Rhode Island were not individually 
 For the collected data on honey production:
 Alaska, Connecticut, Delaware, Maryland, Massachusetts, Nevada, New Hampshire, New Mexico, Oklahoma, and Rhode Island were not individually reported on.
 
-Also, in 2015, California, Alaska, and Hawaii did not report on their use of the 7 pestiides believed to cause adverse effects on colony health. 
+Also, in 2015, California, Alaska, and Hawaii did not report on their use of the 7 pesticides believed to cause adverse effects on colony health. 
 
 
 ## Authors
