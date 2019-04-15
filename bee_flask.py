@@ -40,10 +40,12 @@ app = Flask(__name__)
 def welcome():
     """List all available api routes."""
     return (
-        f"Welcome, honeybees! <br/>"
-        f"Available Routes:<br/>"
-        f"/api/2015/honey-yield<br/>"
-        f"/api/2015/pesticides-colonies"
+        f"<h2>Welcome, honeybees! <br/></h2>"
+        f"<h3>Available Routes:</h3>"
+        f"<p><a href=""/api/2015/honey-yield"">2015 U.S. Honey Yield Data</a> (/api/2015/honey-yield)<br/>"
+        # f"<ul>/api/2015/honey-yield</ul></p>"
+        f"<p><a href=""/api/2015/pesticides-colonies"">2015 U.S. Pesticides and Colony Change</a> (/api/2015/pesticides-colonies)<br/>"
+        # f"<ul>/api/2015/pesticides-colonies</ul></p>"
     )
 
 
