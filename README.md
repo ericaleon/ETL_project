@@ -40,7 +40,7 @@ yield/colony(lbs) - 2015
 
 ### From Resources/AgrPesticideUse_2014-2015
 
-Clean the CVS (2015) to include information for:
+Clean the CSV (2015) to include information for:
 ```
 2015 use rates per harvested-crop acre, or an “estimated pesticide use” (EPest) rate, of the following compounds:
 -- acetamiprid
